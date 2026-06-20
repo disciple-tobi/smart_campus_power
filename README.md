@@ -11,13 +11,13 @@ The **Smart Campus Power Management System** is a Python OOP application that mo
 | Full Name | Matric Number | GitHub Username |
 |-----------|---------------|-----------------|
 | Adeleye Omowumi Agnes | CPE/2023/1008 | @Omowumi513 |
-| Adeniji oluwatobiloba success| CPE/2023/1011 | @disciple-tobi |
 | [Member 3 Full Name] | FUOYE/2022/003 | @username3 |
 | [Member 4 Full Name] | FUOYE/2022/004 | @username4 |
 | [Member 5 Full Name] | FUOYE/2022/005 | @username5 |
 | [Member 6 Full Name] | FUOYE/2022/006 | @username6 |
 | [Member 7 Full Name] | FUOYE/2022/007 | @username7 |
 | [Member 8 Full Name] | FUOYE/2022/008 | @username8 |
+| Adeniji oluwatobiloba success| CPE/2023/1011 | @disciple-tobi |
 | [Member 9 Full Name] | FUOYE/2022/009 | @username9 |
 | [Member 10 Full Name] | FUOYE/2022/010 | @username10 |
 | [Member 11 Full Name] | FUOYE/2022/011 | @username11 |
